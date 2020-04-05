@@ -24,7 +24,7 @@
   margin-top: -13px;
 }
 
-.main-content h3 {
+.main-content div {
   background-image: url(https://archive.fo/UW4oR/7c09e7d0a510ee61a62275a115208926bbd7002a.png);
   background-repeat: no-repeat;
   height: 32px;
@@ -32,7 +32,7 @@
   margin: 0 auto;
 }
 
-.main-content h3:hover {
+.main-content div:hover {
   background-image: url(https://archive.fo/UW4oR/7c09e7d0a510ee61a62275a115208926bbd7002a.png);
   background-position: 50% 100%;
   background-repeat: no-repeat;
