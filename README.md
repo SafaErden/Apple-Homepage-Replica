@@ -1,6 +1,6 @@
 # Applee Homepage Replica
 
-> This project is a clone of a old version of Apple Homepage. It makes use of float, flex and grid CSS display positioning styles. Also the CSS background covers the whole page irrespective of the screen size as a leraning outcome. This solo project is completed as part of the Microverse remote software developement curriculum. Content of the webpage is copied from [that](https://web.archive.org/web/20140301004610/http://www.apple.com/) original page.
+> This project is a clone of an old version of Apple Homepage. It makes use of float, flex and grid CSS display positioning styles. Also the CSS background covers the whole page irrespective of the screen size as a leraning outcome. This solo project is completed as part of the Microverse remote software developement curriculum. Content of the webpage is copied from [that](https://web.archive.org/web/20140301004610/http://www.apple.com/) original page.
 
 ![screenshot](./Assets/image/screenshot.PNG)
 
