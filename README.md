@@ -44,7 +44,7 @@
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/SafaErden/The-New-York-Times/issues).
+Feel free to check the [issues page](https://github.com/SafaErden/Apple-Homepage-Replica/issues).
 
 ## Show your support
 
@@ -52,4 +52,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- TheOdinProject.com PROJECT: POSITIONING AND FLOATING ELEMENTS
+- TheOdinProject.com / PROJECT: BUILDING WITH BACKGROUNDS AND GRADIENTS
