@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/SafaErden/Apple-Homepage-Replica/604dc8df9f6fd555a6e7f37b7af4dc57615e3580/index.html)
+[Live Demo Link](https://rawcdn.githack.com/SafaErden/Apple-Homepage-Replica/11452ef36c5c4b421c8efc8cc93de5c637d2c87c/index.html)
 
 ### Prerequisites
 
