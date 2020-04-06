@@ -2,6 +2,132 @@
   height: 100vh;
 }
 
+.globalheader {
+  position: relative;
+  width: 980px;
+  height: 36px;
+  background: linear-gradient(
+    rgb(153, 149, 149) 0%,
+    rgb(110, 110, 110) 50%,
+    rgb(80, 80, 80) 51%,
+    rgb(120, 120, 120) 98%
+  );
+  box-shadow: 0.5px 0.5px 1px 0.2px rgb(58, 57, 57);
+  top: 85px;
+  margin: 0 auto;
+  border-radius: 4px;
+}
+
+.globalheader ul {
+  display: table;
+  float: left;
+  width: 845px;
+  table-layout: fixed;
+}
+
+.globalheader li {
+  display: table-cell;
+  width: 100%;
+  height: 36px;
+  border-right: 0.02px rgb(94, 92, 92) solid;
+  box-shadow: 0.5px 0 3px 0 rgba(255, 255, 255, 0.2);
+}
+
+.globalheader li :hover {
+  background: linear-gradient(
+    rgb(153, 149, 149) 0%,
+    rgb(110, 110, 110) 50%,
+    rgb(80, 80, 80) 51%,
+    rgb(120, 120, 120) 98%
+  );
+  box-shadow: 0.5px 0.5px 1px 0.2px rgb(58, 57, 57);
+}
+
+.link-one,
+.link-two,
+.link-three,
+.link-four,
+.link-five,
+.link-six,
+.link-seven,
+.link-eight {
+  display: block;
+  width: 100%;
+  height: 30px;
+  margin: 3px auto;
+  background-image: url(http://images.apple.com/global/nav/images/globalnav_text.svg);
+}
+
+.link-one {
+  background-position: -25px 0;
+}
+
+.link-two {
+  background-position: -25px 210px;
+}
+
+.link-three {
+  background-position: -25px 180px;
+}
+
+.link-four {
+  background-position: -25px 150px;
+}
+
+.link-five {
+  background-position: -25px 120px;
+}
+
+.link-six {
+  background-position: -25px 90px;
+}
+
+.link-seven {
+  background-position: -25px 60px;
+}
+
+.link-eight {
+  background-position: -25px 30px;
+}
+
+.search-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 106px;
+  padding: 8px 13px;
+  background: none;
+  border-width: 0 2px 0 1px;
+  color: #fff;
+}
+
+.search-container form {
+  position: relative;
+  padding: 0;
+  width: 100%;
+  height: auto;
+  background-image: none;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+}
+
+.search-container form input {
+  width: 100%;
+  height: 20px;
+  padding: 2px 18px 1px 22px;
+  background-image: none;
+  border-radius: 12px;
+  box-sizing: border-box;
+  opacity: 0.22;
+}
+
+.search-icon {
+  position: absolute;
+  top: 9px;
+  left: 18px;
+  font-size: 18px;
+}
+
 .grid-main {
   position: relative;
   grid-area: gm;
