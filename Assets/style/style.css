@@ -191,6 +191,19 @@
   background-image: url(https://archive.fo/UW4oR/ec67ffeb084d1b9c83687205641697baa4122bee.jpg);
 }
 
+aside {
+  z-index: 4;
+  width: 100%;
+  height: 100%;
+}
+
+.aside-a {
+  display: inline-block;
+  z-index: 5;
+  width: 100%;
+  height: 100%;
+}
+
 .homefooter {
   width: 980px;
   margin: 0 auto;
